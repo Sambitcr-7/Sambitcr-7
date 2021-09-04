@@ -44,7 +44,11 @@ Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first yea
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sambitcr-7&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Sambitcr-7&show_icons=true&count_private=true&theme=tokyonight)<br>
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=Sambitcr-7&show_icons=true&count_private=true&theme=tokyonight)<br> -->
+
+<a href="https://github.com/Sambitcr-7/github-readme-activity-graph"><img width="53%" align="right" alt="Sambit Patra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sambitcr-7&bg_color=0D1117&theme=tokyonight&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
+  <a href="https://github.com/Sambitcr-7/github-readme-stats"><img width="35%" alt="Sambit Patra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambitcr-7&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 
 
 <h2> Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px> </h2>
