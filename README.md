@@ -70,7 +70,7 @@ Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first yea
 
 
  
- <img width="120%" alt="Github" src="https://media.giphy.com/media/l7fdqmHQ1jCg2HzQlx/giphy.gif" />
+<!--  <img width="120%" alt="Github" src="https://media.giphy.com/media/l7fdqmHQ1jCg2HzQlx/giphy.gif" /> -->
 
 
 <!-- <img width="%" alt="Github" src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=766&q=80" /> -->
