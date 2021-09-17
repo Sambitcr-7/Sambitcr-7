@@ -60,9 +60,8 @@ Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first yea
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> 
+  <img align="right" alt="Coding" width="180" src="https://i.pinimg.com/564x/a2/c9/13/a2c9134e0973500f10770f5e32b8f7a8.jpg">
 <br><br><br>
-
-<img align="right" alt="Coding" width="180" src="https://i.pinimg.com/564x/a2/c9/13/a2c9134e0973500f10770f5e32b8f7a8.jpg">
 
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
 
