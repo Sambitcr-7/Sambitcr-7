@@ -63,6 +63,7 @@ Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first yea
  <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
  <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/git.png"/>
  <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<br><br>
 
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
 
