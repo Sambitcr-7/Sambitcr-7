@@ -74,3 +74,6 @@ Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first yea
 
 
 <!-- <img width="%" alt="Github" src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=766&q=80" /> -->
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+
