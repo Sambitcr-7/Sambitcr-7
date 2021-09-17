@@ -62,6 +62,8 @@ Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first yea
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> 
 <br><br><br>
 
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/564x/a2/c9/13/a2c9134e0973500f10770f5e32b8f7a8.jpg">
+
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
 
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Sambitcr-7&column=7&theme=gruvbox&no-frame=true"/>
