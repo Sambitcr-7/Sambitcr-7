@@ -5,6 +5,11 @@
 Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first year computer science Btech student. I am really into learning and growing. 
  <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
 
+  
+  src="https://readme-typing-svg.herokuapp.com?lines=W3+4R3+3V3RY+WH3R3:)"
+            alt="Typing SVG"/> 
+
+![Snake animation](https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/NzI2OTdhNjE2NA.svg)
 
 
 
