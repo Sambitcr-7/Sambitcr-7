@@ -61,6 +61,8 @@ Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first yea
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> 
 <br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal313-m&show_icons=true&locale=en&layout=compact" alt="vishal313-m" /></p>
+
 
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
 
