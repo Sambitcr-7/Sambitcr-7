@@ -3,7 +3,8 @@
 <br><br>
 
 Hi I am Sambit Patra very happy to see you here 😄. Currently I am a first year computer science Btech student. I am really into learning and growing. 
- <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
+<!--  <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br> -->
+  [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://Vishal313-m.github.io)
 
   
 
