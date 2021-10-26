@@ -9,7 +9,8 @@ Hi I am Sambit Patra very happy to see you here 😄. Currently I am computer sc
 
   
 
-![Snake animation](https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/NzI2OTdhNjE2NA.svg)
+<!-- ![Snake animation](https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/NzI2OTdhNjE2NA.svg) -->
+  ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/pravash123/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
 
 
 
