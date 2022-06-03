@@ -65,4 +65,4 @@
 
 ### Contribution Graph
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?uSambitcr-7&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=Sambitcr-7&theme=xcode" alt="Contribution Graph" align="center" />
