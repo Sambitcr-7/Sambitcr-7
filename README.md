@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/sambit_cr_7/">
     <img align="center" alt="Sambit's Instagram" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>&ensp;
-  <a href="https://twitter.com/SAMBITP99845434">
+  <a href="https://twitter.com/Sambit_cr7">
     <img align="center" alt="Sambit Patra | Twitter" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>&ensp;
   <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=Sambitcr-7.visitor-badge">
